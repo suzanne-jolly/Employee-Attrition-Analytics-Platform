@@ -37,7 +37,7 @@ Developed interactive dashboards tracking critical HR metrics:
 #### 1. Overview & Attrition Analysis
 Provides a high-level view of overall employee turnover rates, breaking down attrition by department and gender.
 > `![Overview Dashboard](images/overview.png)` 
-*(Replace the line above with the actual path to your screenshot once uploaded)*
+
 
 #### 2. Workforce Demographics
 Tracks the composition of the workforce, mapping marital status, education fields, and age distributions.
