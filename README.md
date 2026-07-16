@@ -36,20 +36,20 @@ Developed interactive dashboards tracking critical HR metrics:
 
 #### 1. Overview & Attrition Analysis
 Provides a high-level view of overall employee turnover rates, breaking down attrition by department and gender.
-> `![Overview Dashboard](images/overview.png)` 
+> `![Overview Dashboard](overview.png)` 
 
 
 #### 2. Workforce Demographics
 Tracks the composition of the workforce, mapping marital status, education fields, and age distributions.
-> `![Demographics Dashboard](images/demographics.png)`
+> `![Demographics Dashboard](demographics.png)`
 
 #### 3. Compensation & Salaries
 Analyzes the financial health of the workforce, plotting total working years against monthly income and comparing average salaries across job roles.
-> `![Compensation Dashboard](images/compensation.png)`
+> `![Compensation Dashboard](compensation.png)`
 
 #### 4. Employee Satisfaction & Performance
 Monitors the internal health of the company by analyzing survey results on environment, job, and relationship satisfaction alongside performance ratings.
-> `![Satisfaction Dashboard](images/satisfaction.png)`
+> `![Satisfaction Dashboard](satisfaction.png)`
 
 ---
 
